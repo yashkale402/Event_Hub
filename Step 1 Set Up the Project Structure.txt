@@ -1,0 +1,8 @@
+Step 1: Set Up the Project Structure
+index.html: Main HTML file.
+style.css: For styling the web page.
+app.js: Handles the logic, fetching, and displaying events.
+
+
+
+
